@@ -1,0 +1,20 @@
+================================================================================
+XGBOOST OPTIMIZED HYPERPARAMETERS
+================================================================================
+
+Hyperparameters:
+  n_estimators: 473
+  max_depth: 15
+  learning_rate: 0.048041
+  subsample: 0.830515
+  colsample_bytree: 0.575614
+  gamma: 0.171992
+  min_child_weight: 3
+
+Best CV Accuracy: 0.8208
+Validation Accuracy: 0.9836
+Validation Log Loss: 0.1133
+Training Time: 156.66 seconds
+Training Set Size: 61878 samples
+GPU Device: CPU
+Saved: 2025-10-26 02:16:16
